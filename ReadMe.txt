@@ -1,10 +1,9 @@
-Hi Groovy People!
+Hi  People!
 
 One of my customers needed me to create PDF's from Word Documents.
 Because they already used a cheap (under $40) application called:
 Win2PDF application (100% FREE for Personal use) from:
 
-http://Win2PDF.com , I decided to download it and try it out.
 
 Well, it works a treat. 
 
@@ -20,7 +19,4 @@ this skill to your development repertoire, you can increase your
 own consultancy income. Good luck!
 
 Cheers,
-Kevin
-------
-Kevin Ritch
-V8Software.com
+Kamlesh Mishra
